@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe Bastidas Bedoya</h1>
-<h3 align="center">A rookie web Backend developer and Movile delevoper from Colombia</h3>
+<h3 align="center">A rookie web Backend developer and Mobile delevoper from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebastidas1105&label=Profile%20views&color=0e75b6&style=flat" alt="felipebastidas1105" /> </p>
 
