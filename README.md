@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks,Design and More**
 
-- 💬 Ask me about **react,.net , nextJS**
+- 💬 Ask me about **React, ASP.Net , NextJS**
 
 - 📫 How to reach me **juanfelipebastidas1105@gmail.com**
 
