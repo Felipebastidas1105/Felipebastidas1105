@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe Bastidas Bedoya</h1>
-<h3 align="center">Full Stack developer from Colombia, building web tools and internal platforms end-to-end</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Colombia;Building+internal+tools+%40+COLCOCOA;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+ASP.NET;Currently+exploring+Astro+%26+geospatial+data" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipebastidas1105&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://bastidas.xyz" target="_blank"><img src="https://img.shields.io/badge/portfolio-bastidas.xyz-0E75B6?style=flat" alt="Portfolio" /></a>
 </p>
 
-- 🔭 Currently building internal tools and a satellite crop-monitoring platform at **COLCOCOA**
-- 🌱 Deepening my skills in **Astro, backend architecture and automation**
-- 💬 Ask me about **React, Next.js, Node.js or ASP.NET**
+### 🛰️ Featured project
+
+**Satellite crop & reforestation monitoring platform** — built at COLCOCOA using Google Earth Engine, geospatial analysis and AI to track agricultural projects from orbit. Turned "no visibility into field conditions" into real-time, map-based insights the agronomy team actually uses.
+
+- 🔭 Also building internal tools at **COLCOCOA** (an expense-legalization app integrated into the company's Office environment)
+- 🌱 Currently deepening my skills in **Astro, backend architecture and automation**
 - 📫 Reach me at **juanfelipebastidas1105@gmail.com**
-- 🌐 Portfolio: **[bastidas.xyz](https://bastidas.xyz)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +40,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebastidas1105&show_icons=true&locale=en&layout=compact&hide=html,css" alt="felipebastidas1105 top languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=felipebastidas1105&show_icons=true&locale=en&count_private=true" alt="felipebastidas1105 GitHub stats" width="48%" />
-</p>
+<h3 align="left">Contribution snake 🐍</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipebastidas1105/felipebastidas1105/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipebastidas1105/felipebastidas1105/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipebastidas1105/felipebastidas1105/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!--
+Esta imagen no existe todavía: aparece automáticamente después de que corras
+el workflow de snake.yml por primera vez (ver instrucciones de setup).
+Mientras tanto se verá rota — si prefieres, borra este bloque hasta que lo actives.
+-->
